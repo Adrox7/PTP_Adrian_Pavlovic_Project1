@@ -7120,6 +7120,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" "TEXAS INSTRUMENTS"
+			(at 66.04 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "NE555P"
+			(at 66.04 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "afa7aaab-f573-4bcf-bb1b-a0b5a3fc52cc")
 		)
@@ -7569,6 +7587,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" "RENESAS"
+			(at 120.65 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CD4027BMS"
+			(at 120.65 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "7"
 			(uuid "664b723a-634a-457d-9dc4-7a49f6bf4cee")
 		)
@@ -7945,6 +7981,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" "C&K"
+			(at 52.07 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "OS102011MS2QN1C"
+			(at 52.07 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "3678c1de-cecf-4b23-85e7-86f459c8f1dc")
 		)
@@ -8017,6 +8071,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manucaturer" ""
+			(at 198.12 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" ""
+			(at 198.12 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "12e08dcd-3657-424f-8fd7-c14ae7dec1eb")
 		)
@@ -8079,6 +8151,24 @@
 			)
 		)
 		(property "Description" "Dual JK FlipFlop, set & reset"
+			(at 144.78 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "RENESAS"
+			(at 144.78 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CD4027BMS"
 			(at 144.78 102.87 0)
 			(effects
 				(font
@@ -8568,6 +8658,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" "ROYALOHM"
+			(at 21.59 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "1206S4J0473T5E"
+			(at 21.59 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "fb9560cd-6088-4630-883a-2eb5a1386846")
 		)
@@ -8758,6 +8866,24 @@
 			)
 		)
 		(property "Description" "Dual JK FlipFlop, set & reset"
+			(at 151.13 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "RENESAS"
+			(at 151.13 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CD4027BMS"
 			(at 151.13 39.37 0)
 			(effects
 				(font
@@ -9150,6 +9276,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" "ROYALOHM"
+			(at 250.19 78.74 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "1206S4F2001T5E"
+			(at 250.19 78.74 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "adcb732b-94f3-47d3-b38d-f1cdf5939f12")
 		)
@@ -9276,6 +9420,24 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 250.19 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "ROYALOHM"
+			(at 250.19 110.49 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "1206S4F2001T5E"
+			(at 250.19 110.49 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9486,6 +9648,24 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 250.19 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "ROYALOHM"
+			(at 250.19 96.52 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "1206S4F2001T5E"
+			(at 250.19 96.52 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9767,6 +9947,24 @@
 			)
 		)
 		(property "Description" "Dual JK FlipFlop, set & reset"
+			(at 95.25 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "RENESAS"
+			(at 95.25 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CD4027BMS"
 			(at 95.25 102.87 0)
 			(effects
 				(font
@@ -10265,6 +10463,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" "ROYALOHM"
+			(at 21.59 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "1206S4J0473T5E"
+			(at 21.59 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1622605f-8914-48a8-acf3-e548936c681a")
 		)
@@ -10665,6 +10881,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" "FERROCORE"
+			(at 93.98 33.02 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "COIL0608-0.33"
+			(at 93.98 33.02 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "5968911a-0a69-489e-9d1d-79315b329eaf")
 		)
@@ -10793,6 +11027,24 @@
 			)
 		)
 		(property "Description" "BCD to 7-segment Driver, Open Collector, 30V outputs"
+			(at 223.52 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "TEXAS INSTRUMENTS"
+			(at 223.52 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "SN74LS47N"
 			(at 223.52 95.25 0)
 			(effects
 				(font
@@ -10969,6 +11221,24 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 250.19 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "ROYALOHM"
+			(at 250.19 101.6 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "1206S4F2001T5E"
+			(at 250.19 101.6 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11392,6 +11662,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" "microswitch TACT"
+			(at 26.67 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "TACT-64N-F"
+			(at 26.67 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9eb0d05c-d780-4dd9-bc32-d6b4fe3b090b")
 		)
@@ -11528,6 +11816,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" "RENESAS"
+			(at 168.91 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CD4027BMS"
+			(at 168.91 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "cd7e68db-0b94-4928-87f7-8edfff1edb76")
 		)
@@ -11640,6 +11946,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" "RENESAS"
+			(at 181.61 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CD4027BMS"
+			(at 181.61 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "cd7e68db-0b94-4928-87f7-8edfff1edb77")
 		)
@@ -11744,6 +12068,15 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 15.24 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "DEGSON ELECTRONICS"
 			(at 15.24 39.37 0)
 			(effects
 				(font
@@ -11953,6 +12286,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" "ROYALOHM"
+			(at 250.19 91.44 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "1206S4F2001T5E"
+			(at 250.19 91.44 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ddd6afa1-8697-44be-b642-906ce6b3fa2e")
 		)
@@ -12155,6 +12506,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" "ROYALOHM"
+			(at 250.19 85.09 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "1206S4F2001T5E"
+			(at 250.19 85.09 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "40fb1056-e4d5-474a-ba75-20da4db4a2ba")
 		)
@@ -12218,6 +12587,15 @@
 		)
 		(property "Description" "Schottky diode, filled shape"
 			(at 87.63 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "SMC DIODE SOLUTIONS"
+			(at 87.63 43.18 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12292,6 +12670,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" "ROYALOHM"
+			(at 250.19 105.41 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "1206S4F2001T5E"
+			(at 250.19 105.41 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "01a74c5d-80b7-453f-a23a-8a1484ddf5ef")
 		)
@@ -12352,6 +12748,24 @@
 			)
 		)
 		(property "Description" ""
+			(at 143.51 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "TEXAS INSTRUMENTS"
+			(at 143.51 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "SN74LVC1G11DBVR"
 			(at 143.51 160.02 0)
 			(effects
 				(font
@@ -12787,6 +13201,24 @@
 			)
 		)
 		(property "Description" "One digit 7 segment yellow, common anode"
+			(at 270.51 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "FORYARD"
+			(at 270.51 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "FYS-3911BUHR-21"
 			(at 270.51 95.25 0)
 			(effects
 				(font
